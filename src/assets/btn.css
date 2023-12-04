@@ -1,0 +1,13 @@
+.btn-primario{
+    background-color: rgb(39, 39, 202);
+    color: rgb(218, 215, 215)
+}
+.btn-secundario{
+    background-color: rgb(135, 135, 135);
+    color:  rgb(60, 60, 201);
+}
+
+.btn{
+    width: 100%;
+    font-size: 50px;
+}
